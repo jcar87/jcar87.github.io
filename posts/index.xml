@@ -1,29 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Julius&#39;s notes</title>
-        <link>https://jcar87.github.io/julius-blog-static/posts/</link>
+        <link>http://julius.es/posts/</link>
         <description>Recent content in Posts on Julius&#39;s notes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Mon, 27 May 2019 11:50:53 +0100</lastBuildDate>
-        <atom:link href="https://jcar87.github.io/julius-blog-static/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://julius.es/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Second</title>
-            <link>https://jcar87.github.io/julius-blog-static/posts/second/</link>
+            <link>http://julius.es/posts/second/</link>
             <pubDate>Mon, 27 May 2019 11:50:53 +0100</pubDate>
             
-            <guid>https://jcar87.github.io/julius-blog-static/posts/second/</guid>
+            <guid>http://julius.es/posts/second/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
         
         <item>
             <title>My First Post</title>
-            <link>https://jcar87.github.io/julius-blog-static/posts/my-first-post/</link>
+            <link>http://julius.es/posts/my-first-post/</link>
             <pubDate>Sun, 26 May 2019 10:35:48 +0100</pubDate>
             
-            <guid>https://jcar87.github.io/julius-blog-static/posts/my-first-post/</guid>
+            <guid>http://julius.es/posts/my-first-post/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>

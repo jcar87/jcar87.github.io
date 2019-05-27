@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Julius&#39;s notes</title>
-    <link>https://jcar87.github.io/julius-blog-static/tags/</link>
+    <link>http://julius.es/tags/</link>
     <description>Recent content in Tags on Julius&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 May 2019 11:50:53 +0100</lastBuildDate>
     
-	<atom:link href="https://jcar87.github.io/julius-blog-static/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://julius.es/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>untagged</title>
-      <link>https://jcar87.github.io/julius-blog-static/tags/untagged/</link>
+      <link>http://julius.es/tags/untagged/</link>
       <pubDate>Mon, 27 May 2019 11:50:53 +0100</pubDate>
       
-      <guid>https://jcar87.github.io/julius-blog-static/tags/untagged/</guid>
+      <guid>http://julius.es/tags/untagged/</guid>
       <description></description>
     </item>
     

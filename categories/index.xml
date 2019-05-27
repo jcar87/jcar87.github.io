@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Julius&#39;s notes</title>
-    <link>https://jcar87.github.io/julius-blog-static/categories/</link>
+    <link>http://julius.es/categories/</link>
     <description>Recent content in Categories on Julius&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jcar87.github.io/julius-blog-static/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://julius.es/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
