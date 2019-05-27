@@ -3,22 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jcar87.github.io/julius-blog-static/</loc>
+    <lastmod>2019-05-27T11:50:53+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcar87.github.io/julius-blog-static/posts/</loc>
+    <lastmod>2019-05-27T11:50:53+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcar87.github.io/julius-blog-static/posts/second/</loc>
+    <lastmod>2019-05-27T11:50:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jcar87.github.io/julius-blog-static/tags/</loc>
+    <lastmod>2019-05-27T11:50:53+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcar87.github.io/julius-blog-static/tags/untagged/</loc>
+    <lastmod>2019-05-27T11:50:53+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jcar87.github.io/julius-blog-static/posts/my-first-post/</loc>
+    <lastmod>2019-05-26T10:35:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jcar87.github.io/julius-blog-static/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jcar87.github.io/julius-blog-static/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jcar87.github.io/julius-blog-static/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jcar87.github.io/julius-blog-static/tags/</loc>
     <priority>0</priority>
   </url>
   

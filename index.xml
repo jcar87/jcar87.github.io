@@ -6,9 +6,28 @@
     <description>Recent content on Julius&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2019 11:50:53 +0100</lastBuildDate>
     
 	<atom:link href="https://jcar87.github.io/julius-blog-static/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second</title>
+      <link>https://jcar87.github.io/julius-blog-static/posts/second/</link>
+      <pubDate>Mon, 27 May 2019 11:50:53 +0100</pubDate>
+      
+      <guid>https://jcar87.github.io/julius-blog-static/posts/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://jcar87.github.io/julius-blog-static/posts/my-first-post/</link>
+      <pubDate>Sun, 26 May 2019 10:35:48 +0100</pubDate>
+      
+      <guid>https://jcar87.github.io/julius-blog-static/posts/my-first-post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
